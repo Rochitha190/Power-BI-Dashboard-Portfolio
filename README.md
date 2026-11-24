@@ -75,22 +75,22 @@ The portfolio includes a dedicated home page with bookmark-based navigation, all
 ## 📸 Dashboard Screenshots
 
 ### Portfolio Home Page
-![Portfolio Home Page](Dashboard-Screenshots/01-Home-Page.png)
+![Portfolio Home Page](Dashboard-Screenshots/Portfolio%20Home%20Page.png)
 
 ### Amazon Sales Analysis
-![Amazon Sales Analysis](Dashboard-Screenshots/02-Amazon-Sales-Analysis.png)
+![Amazon Sales Analysis](Dashboard-Screenshots/Amazon%20Sales%20Analysis.png)
 
 ### Impact of COVID-19 on Students
-![COVID-19 Student Analysis](Dashboard-Screenshots/03-COVID-19-Student-Analysis.png)
+![COVID-19 Student Analysis](Dashboard-Screenshots/Impact%20of%20COVID-19%20on%20Students.png)
 
 ### Movie Insights & Analysis
-![Movie Insights](Dashboard-Screenshots/04-Movie-Insights-Analysis.png)
+![Movie Insights](Dashboard-Screenshots/Movie%20Insights%20%26%20Analysis.png)
 
 ### Online Store Performance Analysis
-![Online Store Analysis](Dashboard-Screenshots/05-Online-Store-Performance.png)
+![Online Store Analysis](Dashboard-Screenshots/Online%20Store%20Performance%20Analysis.png)
 
 ### HR Analytics & Employee Attrition Analysis
-![HR Analytics](Dashboard-Screenshots/06-HR-Employee-Attrition.png)
+![HR Analytics](Dashboard-Screenshots/HR%20Analytics%20%26%20Employee%20Attrition%20Analysis.png)
 
 ## 📈 What I Learned
 
